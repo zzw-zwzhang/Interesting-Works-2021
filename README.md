@@ -1,5 +1,5 @@
 # Interesting-Works
-% https://latex.codecogs.com/gif.latex?
+<!-- https://latex.codecogs.com/gif.latex? -->
 
 ## SGD
 - [On the Origin of Implicit Regularization in Stochastic Gradient Descent](https://arxiv.org/pdf/2101.12176.pdf), 2021 ICLR
