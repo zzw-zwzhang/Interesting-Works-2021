@@ -16,3 +16,8 @@
   
 - [Three Factors Influencing Minima in SGD](https://arxiv.org/pdf/1711.04623.pdf), 2018 ICANN
 - [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), 2017 ICLR
+- [](), 2018 Review
+
+
+## Information Bottleneck
+-[]()
