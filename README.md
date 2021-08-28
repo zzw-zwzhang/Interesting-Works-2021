@@ -8,3 +8,4 @@
   1) Other works have questionedthe correctness of the using the central limit theorem to model the gradient noise as Gaussian [20], arguing that the weak dependence between batches and heavy-tailed structure in the gradient noiseleads the CLT to break down.
   2) 
 - [Three Factors Influencing Minima in SGD](https://arxiv.org/pdf/1711.04623.pdf), 2018 ICANN
+- [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), 2017 ICLR
