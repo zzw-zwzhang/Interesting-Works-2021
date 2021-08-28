@@ -21,3 +21,7 @@
 
 ## Information Bottleneck
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
+
+
+## Physics & ML
+- [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
