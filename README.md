@@ -17,6 +17,7 @@
 - [Three Factors Influencing Minima in SGD](https://arxiv.org/pdf/1711.04623.pdf), 2018 ICANN
 - [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), 2017 ICLR
 - [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf), 2018 SIAM Review
+- [Optimization and Gradient Descent](http://www2.stat.duke.edu/~sayan/561/2020/opt.pdf), Lecture 18
 
 
 ## Information Theory
