@@ -19,6 +19,10 @@
 - [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf), 2018 SIAM Review
 
 
+## Information Theory
+- [Nonparametric Estimation of Mutual Information and Test for Independence](https://statperson.com/Journal/StatisticsAndMathematics/Html_5_2_1.php), Research Article
+
+
 ## Information Bottleneck
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
 
