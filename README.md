@@ -25,7 +25,7 @@
 
 
 ## Batch Normalization
-- [](), 2020 ECCV
+- [Cross-Iteration Batch Normalization](https://arxiv.org/pdf/2002.05712.pdf), 2021 CVPR
 
 
 ## Physics & ML
