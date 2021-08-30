@@ -23,6 +23,10 @@
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
 
 
+## Batch Normalization
+- [](), 2020 ECCV
+
+
 ## Physics & ML
 - [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
 
