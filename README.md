@@ -16,7 +16,7 @@
   1) The relationship between the Hessian and the covariance matrix.  
   ![](https://latex.codecogs.com/gif.latex?\Sigma(\theta)%20\approx%20\frac{\sigma^2}{N}%20\sum_{i=1}^{N}%20x_i%20x_i^T%20=%20\frac{\sigma^2}{N}%20X^T%20X%20=%20\sigma^2%20H)
   2) The speed at which one can minimize an expected loss using stochastic methods dependson two properties: the curvature of the loss and the variance of the gradients.
-  3) The distinction between the Fisher matrix, the Hessian, and the covariance matrixof the gradients.
+  3) The distinction between the Fisher matrix, the Hessian, and the covariance matrix of the gradients.
   
 - [Three Factors Influencing Minima in SGD](https://arxiv.org/pdf/1711.04623.pdf), 2018 ICANN
 - [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys](https://arxiv.org/pdf/1611.01838.pdf), 2017 ICLR
