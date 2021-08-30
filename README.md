@@ -29,6 +29,7 @@
 
 ## Batch Normalization
 - [Cross-Iteration Batch Normalization](https://arxiv.org/pdf/2002.05712.pdf), 2021 CVPR
+- [Learning Intra-Batch Connections for Deep Metric Learning](https://arxiv.org/pdf/2102.07753.pdf), 2021 ICML
 
 
 ## Physics & ML
