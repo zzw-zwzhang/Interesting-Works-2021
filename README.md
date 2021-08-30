@@ -32,6 +32,10 @@
 - [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
 
 
+## Random Matrix Theory
+- [Applicability of Random Matrix Theory in Deep Learning](https://arxiv.org/pdf/2102.06740v1.pdf), 2021 arXiv
+
+
 ## Covariance Matrix
 - [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
 - [Matrix Power Normalized Covariance Pooling For Deep Convolutional Networks](http://peihuali.org/iSQRT-COV/index.html)
