@@ -33,6 +33,7 @@
 
 
 ## Random Matrix Theory
+- [Geometry of Neural Network Loss Surfaces via Random Matrix Theory](https://dl.acm.org/doi/pdf/10.5555/3305890.3305970), 2017 ICML
 - [Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures](http://proceedings.mlr.press/v119/seddik20a/seddik20a.pdf), 2020 ICML
 - [Applicability of Random Matrix Theory in Deep Learning](https://arxiv.org/pdf/2102.06740v1.pdf), 2021 arXiv
 
