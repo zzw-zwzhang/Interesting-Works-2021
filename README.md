@@ -41,6 +41,7 @@
 - [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/pdf/2006.12013.pdf), 2020 ICML
 - [Mutual Information really invariant to invertible transformations?](https://stats.stackexchange.com/questions/50184/mutual-information-really-invariant-to-invertible-transformations)
 - [A Comparison of Correlation Measures](https://m-clark.github.io/docs/CorrelationComparison.pdf)
+- [Estimation of Entropy and Mutual Information](https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf), 2003
 
 
 ## Batch Normalization
