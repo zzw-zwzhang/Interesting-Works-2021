@@ -86,6 +86,7 @@
 - [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf), 2020 NeurIPS
 - [Decomposing 3D Scenes into Objects via Unsupervised Volume Segmentation](https://stelzner.github.io/obsurf/), 2021 arXiv
 - [Feature-wise Transformations](https://distill.pub/2018/feature-wise-transformations/), 2018 Blog
+- [Concept Grounding with Modular Action-Capsules in Semantic Video Prediction](https://arxiv.org/pdf/2011.11201.pdf), 2021 arXiv
 
 
 ## Virtual Try-On
