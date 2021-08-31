@@ -28,7 +28,8 @@
 
 
 ## 2nd-order Optimization & Hessian
--[An Investigation into Neural Net Optimization via HessianEigenvalue Density](https://icml.cc/media/Slides/icml/2019/hallb(11-16-00)-11-16-00-4686-an_investigatio.pdf), 2019 Slide
+- [Whitening and Second Order Optimization Both Make Information in theDataset Unusable During Training, and Can Reduce or Prevent Generalization](https://arxiv.org/pdf/2008.07545.pdf), 2021 ICML
+- [An Investigation into Neural Net Optimization via HessianEigenvalue Density](https://icml.cc/media/Slides/icml/2019/hallb(11-16-00)-11-16-00-4686-an_investigatio.pdf), 2019 Slide
 
 
 ## Information Bottleneck & Theory
