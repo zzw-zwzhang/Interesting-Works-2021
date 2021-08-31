@@ -4,6 +4,7 @@
 ## SGD
 - [Communication Efficient SGD via Gradient Sampling with Bayes Prior](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Communication_Efficient_SGD_via_Gradient_Sampling_With_Bayes_Prior_CVPR_2021_paper.pdf), 2021 CVPR  
 - [On the Origin of Implicit Regularization in Stochastic Gradient Descent](https://arxiv.org/pdf/2101.12176.pdf), 2021 ICLR
+- [A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima](https://arxiv.org/pdf/2002.03495.pdf), 2021 ICLR
 - [On the Validity of Modeling SGD with Stochastic Differential Equations (SDEs)](https://arxiv.org/pdf/2102.12470.pdf), 2021 NeurIPS
 - [Rethinking the Limiting Dynamics of SGD: Modified Loss, Phase Space Oscillations, and Anomalous Diffusion](https://arxiv.org/pdf/2107.09133.pdf), 2021 NeurIPS
   1) Other works have questionedthe correctness of the using the central limit theorem to model the gradient noise as Gaussian [20], arguing that the weak dependence between batches and heavy-tailed structure in the gradient noiseleads the CLT to break down.
