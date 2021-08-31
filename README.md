@@ -26,6 +26,7 @@
 - [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/pdf/1807.05031.pdf), 2019 ICLR
 - [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/pdf/1710.06451.pdf), 2018 ICLR
 - [Importance Sampling for Minibatches](https://www.jmlr.org/papers/volume19/16-241/16-241.pdf), 2018 JMLR
+- [Variance Reduction forStochastic Gradient Optimization](https://papers.nips.cc/paper/2013/file/9766527f2b5d3e95d4a733fcfb77bd7e-Paper.pdf), 2013 NIPS
 
 
 ## 2nd-order Optimization & Hessian
