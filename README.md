@@ -30,6 +30,7 @@
 
 
 ## Batch Normalization
+- [Metadata Normalization](https://arxiv.org/pdf/2104.09052.pdf), 2021 CVPR
 - [Cross-Iteration Batch Normalization](https://arxiv.org/pdf/2002.05712.pdf), 2021 CVPR
 - [Stochastic Whitening Batch Normalization](https://arxiv.org/pdf/2106.04413.pdf), 2021 CVPR
 - [Learning Intra-Batch Connections for Deep Metric Learning](https://arxiv.org/pdf/2102.07753.pdf), 2021 ICML
