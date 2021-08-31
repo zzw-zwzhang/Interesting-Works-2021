@@ -63,6 +63,7 @@
 - [People as Scene Probes](https://arxiv.org/pdf/2007.09209.pdf), 2020 ECCV
 - [TediGAN: Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN), 2021 CVPR
 - [Object-Centric Learning with Slot Attention](https://arxiv.org/pdf/2006.15055.pdf), 2020 NeurIPS
+- [Decomposing 3D Scenes into Objects via Unsupervised Volume Segmentation](https://stelzner.github.io/obsurf/), 2021 arXiv
 
 
 ## Virtual Try-On
