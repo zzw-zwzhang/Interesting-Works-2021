@@ -50,6 +50,7 @@
 - [Applicability of Random Matrix Theory in Deep Learning](https://arxiv.org/pdf/2102.06740v1.pdf), 2021 arXiv
 - [Random Matrices in Machine Learning](https://afia.asso.fr/wp-content/uploads/2018/09/Stats-IA_RCouillet-2.pdf), 2018
 - [Why Deep Learning Works:Implicit Self-Regularization in Deep Neural Networks](http://helper.ipam.ucla.edu/publications/mlpws2/mlpws2_16011.pdf), 2019 Slide
+- [Recent Advances in Random Matrix Theoryfor Modern Machine Learning](http://cs.if.uj.edu.pl/matrix/files/Liao.pdf), 2019 Slide
 
 
 ## Covariance Matrix
