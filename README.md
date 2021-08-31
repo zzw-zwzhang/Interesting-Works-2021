@@ -38,6 +38,7 @@
 - [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
 - [A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses](https://arxiv.org/pdf/2003.08983.pdf), 2020 ECCV
 - [Estimating Total Correlation withMutual Information Bounds](https://arxiv.org/pdf/2011.04794.pdf), 2020 NeurIPS-Workshop
+- [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/pdf/2006.12013.pdf), 2020 ICML
 
 
 ## Batch Normalization
