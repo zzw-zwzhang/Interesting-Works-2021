@@ -51,5 +51,6 @@
 - [Matrix Power Normalized Covariance Pooling For Deep Convolutional Networks](http://peihuali.org/iSQRT-COV/index.html)
 
 
-## View Generation
+## Image Generation
 - [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/), 2021 ICCV Oral
+- [Repopulating Street Scenes](https://grail.cs.washington.edu/projects/repop/), 2021 CVPR
