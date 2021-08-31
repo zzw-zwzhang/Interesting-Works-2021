@@ -36,6 +36,7 @@
 ## Information Bottleneck & Theory
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
 - [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
+- [A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses](https://arxiv.org/pdf/2003.08983.pdf), 2020 ECCV
 
 
 ## Batch Normalization
