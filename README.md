@@ -25,6 +25,7 @@
 - [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf), 2018 SIAM Review
 - [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/pdf/1807.05031.pdf), 2019 ICLR
 - [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/pdf/1710.06451.pdf), 2018 ICLR
+- [Importance Sampling for Minibatches](https://www.jmlr.org/papers/volume19/16-241/16-241.pdf), 2018 JMLR
 
 
 ## 2nd-order Optimization & Hessian
