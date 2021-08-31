@@ -26,8 +26,9 @@
 - [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/pdf/1807.05031.pdf), 2019 ICLR
 
 
-## Information Bottleneck
+## Information Bottleneck & Theory
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
+- [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
 
 
 ## Batch Normalization
