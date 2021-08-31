@@ -42,6 +42,8 @@
 - [Mutual Information really invariant to invertible transformations?](https://stats.stackexchange.com/questions/50184/mutual-information-really-invariant-to-invertible-transformations)
 - [A Comparison of Correlation Measures](https://m-clark.github.io/docs/CorrelationComparison.pdf)
 - [Estimation of Entropy and Mutual Information](https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf), 2003
+- [Mutual Information in Learning Feature Transformations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=C05B2757CD4DE983E56A390332D83860?doi=10.1.1.28.7731&rep=rep1&type=pdf), 2000
+- [Does the entropy of a random variable change under a linear transformation?](https://stats.stackexchange.com/questions/517102/does-the-entropy-of-a-random-variable-change-under-a-linear-transformation)
 
 
 ## Batch Normalization
