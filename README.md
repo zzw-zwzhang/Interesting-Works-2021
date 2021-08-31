@@ -58,6 +58,7 @@
 - [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/), 2021 ICCV Oral
 - [Repopulating Street Scenes](https://grail.cs.washington.edu/projects/repop/), 2021 CVPR
 - [No Shadow Left Behind: Removing Objects and their Shadows using Approximate Lighting and Geometry](http://grail.cs.washington.edu/projects/shadowremoval/), 2021 CVPR
+- [People as Scene Probes](https://arxiv.org/pdf/2007.09209.pdf), 2020 ECCV
 - [TediGAN: Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN), 2021 CVPR
 
 
