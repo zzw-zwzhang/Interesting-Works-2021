@@ -27,6 +27,10 @@
 - [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/pdf/1710.06451.pdf), 2018 ICLR
 
 
+## 2nd-order Optimization & Hessian
+-[An Investigation into Neural Net Optimization via HessianEigenvalue Density](https://icml.cc/media/Slides/icml/2019/hallb(11-16-00)-11-16-00-4686-an_investigatio.pdf), 2019 Slide
+
+
 ## Information Bottleneck & Theory
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
 - [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
