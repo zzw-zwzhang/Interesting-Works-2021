@@ -52,6 +52,7 @@
 - [Why Deep Learning Works:Implicit Self-Regularization in Deep Neural Networks](http://helper.ipam.ucla.edu/publications/mlpws2/mlpws2_16011.pdf), 2019 Slide
 - [Recent Advances in Random Matrix Theoryfor Modern Machine Learning](http://cs.if.uj.edu.pl/matrix/files/Liao.pdf), 2019 Slide
   1) Sample covariance matrix in the large n, p regime, at least (p-n) zero eigenvalues.
+- [Understanding and Improving Deep Learning with Random Matrix Theory](https://stats385.github.io/assets/lectures/Understanding_and_improving_deep_learing_with_random_matrix_theory.pdf), 2017 Slide
 
 
 ## Covariance Matrix
