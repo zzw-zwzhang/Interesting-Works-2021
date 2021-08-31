@@ -39,6 +39,7 @@
 - [A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses](https://arxiv.org/pdf/2003.08983.pdf), 2020 ECCV
 - [Estimating Total Correlation withMutual Information Bounds](https://arxiv.org/pdf/2011.04794.pdf), 2020 NeurIPS-Workshop
 - [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/pdf/2006.12013.pdf), 2020 ICML
+- [Mutual Information really invariant to invertible transformations?](https://stats.stackexchange.com/questions/50184/mutual-information-really-invariant-to-invertible-transformations)
 
 
 ## Batch Normalization
