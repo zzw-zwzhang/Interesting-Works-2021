@@ -60,5 +60,5 @@
 - [TediGAN: Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN), 2021 CVPR
 
 
-# Virtual Try-On
+## Virtual Try-On
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/pdf/2105.06462.pdf), 2021 CVPR
