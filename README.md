@@ -51,6 +51,7 @@
 
 
 ## Batch Normalization
+- [Beyond BatchNorm: Towards a GeneralUnderstanding of Normalization in Deep Learning](https://arxiv.org/pdf/2106.05956.pdf), 2021 NeurIPS
 - [Metadata Normalization](https://arxiv.org/pdf/2104.09052.pdf), 2021 CVPR
 - [Cross-Iteration Batch Normalization](https://arxiv.org/pdf/2002.05712.pdf), 2021 CVPR
 - [Stochastic Whitening Batch Normalization](https://arxiv.org/pdf/2106.04413.pdf), 2021 CVPR
