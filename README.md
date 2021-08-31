@@ -49,3 +49,7 @@
 ## Covariance Matrix
 - [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
 - [Matrix Power Normalized Covariance Pooling For Deep Convolutional Networks](http://peihuali.org/iSQRT-COV/index.html)
+
+
+## View Generation
+- [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/), 2021 ICCV Oral
