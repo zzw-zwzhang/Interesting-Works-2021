@@ -99,3 +99,7 @@
 ## Virtual Try-On
 - [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/pdf/2105.06462.pdf), 2021 CVPR
 - [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/pdf/2103.06871.pdf), 2021 CVPR
+
+
+## Out-of-Distribution Generalization
+- [Out-of-Distribution Generalization: Categories and Paper List](http://out-of-distribution-generalization.com/)
