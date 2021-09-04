@@ -95,6 +95,7 @@
 - [Feature-wise Transformations](https://distill.pub/2018/feature-wise-transformations/), 2018 Blog
 - [Concept Grounding with Modular Action-Capsules in Semantic Video Prediction](https://arxiv.org/pdf/2011.11201.pdf), 2021 arXiv
 - [Cut-and-Paste Neural Rendering](https://anandbhattad.github.io/projects/reshading/)
+- [View Generalization for Single Image Textured 3D Models](https://nv-adlr.github.io/view-generalization)
 
 
 ## Virtual Try-On
