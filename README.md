@@ -105,3 +105,7 @@
 
 ## Out-of-Distribution Generalization
 - [Out-of-Distribution Generalization: Categories and Paper List](http://out-of-distribution-generalization.com/)
+
+
+## Time Series Data
+- [Synthetic Healthcare Data Generation and Assessment: Challenges, Methods, and Impact on Machine Learning](https://www.vanderschaar-lab.com/papers/ICML%202021%20tutorial%20-%20synthetic%20data%20-%20M%20van%20der%20Schaar%20A%20Alaa.pdf)
