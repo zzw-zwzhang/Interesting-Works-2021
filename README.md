@@ -109,3 +109,5 @@
 
 ## Time Series Data
 - [Synthetic Healthcare Data Generation and Assessment: Challenges, Methods, and Impact on Machine Learning](https://www.vanderschaar-lab.com/papers/ICML%202021%20tutorial%20-%20synthetic%20data%20-%20M%20van%20der%20Schaar%20A%20Alaa.pdf)
+- [Conditional Independence Testing using GenerativeAdversarial Networks](https://papers.nips.cc/paper/2019/file/dc87c13749315c7217cdc4ac692e704c-Paper.pdf), 2019 NeurIPS
+- [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf), 2019 NeurIPS
