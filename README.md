@@ -57,6 +57,7 @@
 - [Stochastic Whitening Batch Normalization](https://arxiv.org/pdf/2106.04413.pdf), 2021 CVPR
 - [Learning Intra-Batch Connections for Deep Metric Learning](https://arxiv.org/pdf/2102.07753.pdf), 2021 ICML
 - [Padé Activation Units: End-to-end Learning of Flexible Activation Functions in Deep Networks](https://arxiv.org/pdf/1907.06732.pdf), 2020 ICLR
+- [Rethinking "Batch" in BatchNorm](https://arxiv.org/pdf/2105.07576.pdf), 2021 arXiv
 
 
 ## Physics & ML
