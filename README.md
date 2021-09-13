@@ -33,7 +33,7 @@
 ## Sampling
 - [Random Shuffling Beats SGD Only After Many Epochson Ill-Conditioned Problems](https://arxiv.org/pdf/2106.06880.pdf), 2021 arXiv
   1) Recently, there has been much interest in studying the convergence rates of without-replacementSGD, and proving that it is faster than with-replacement SGD in the worst case.
-  2) Without-replacement sampling createsstatistical dependencies between the iterations, so the stochastic gradients computed at each iteration can nolonger be seen as unbiased estimates of gradients
+  2) Without-replacement sampling createsstatistical dependencies between the iterations, so the stochastic gradients computed at each iteration can nolonger be seen as unbiased estimates of gradients.
 
 
 ## 2nd-order Optimization & Hessian
