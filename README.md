@@ -30,6 +30,12 @@
 - [A Study of Gradient Variance in Deep Learning](https://arxiv.org/pdf/2007.04532.pdf), 2020 arXiv [[code](https://github.com/fartashf/gvar_code)]
 
 
+## Sampling
+- [Random Shuffling Beats SGD Only After Many Epochson Ill-Conditioned Problems](https://arxiv.org/pdf/2106.06880.pdf), 2021 arXiv
+  1) Recently, there has been much interest in studying the convergence rates of without-replacementSGD, and proving that it is faster than with-replacement SGD in the worst case.
+  2) Without-replacement sampling createsstatistical dependencies between the iterations, so the stochastic gradients computed at each iteration can nolonger be seen as unbiased estimates of gradients
+
+
 ## 2nd-order Optimization & Hessian
 - [Whitening and Second Order Optimization Both Make Information in theDataset Unusable During Training, and Can Reduce or Prevent Generalization](https://arxiv.org/pdf/2008.07545.pdf), 2021 ICML
 - [An Investigation into Neural Net Optimization via HessianEigenvalue Density](https://icml.cc/media/Slides/icml/2019/hallb(11-16-00)-11-16-00-4686-an_investigatio.pdf), 2019 Slide
