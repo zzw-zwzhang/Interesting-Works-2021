@@ -37,6 +37,7 @@
 - [Curiously Fast Convergence of someStochastic Gradient Descent Algorithms](https://leon.bottou.org/publications/pdf/slds-2009.pdf), 2009
   1) In fact, the stochastic approximation results rely on randomness assump-tion on the successive choice of examples are independent. Both the cycle and the shuffle break these assumptions but provide a more even coverage of the training set.
   2) What can we prove for thecycleand the shuffle cases?
+- [Without-Replacement Samplingfor Stochastic Gradient Methods](https://papers.nips.cc/paper/2016/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf), 2016 NIPS
 
 
 ## 2nd-order Optimization & Hessian
