@@ -35,8 +35,8 @@
   1) Recently, there has been much interest in studying the convergence rates of without-replacementSGD, and proving that it is faster than with-replacement SGD in the worst case.
   2) Without-replacement sampling createsstatistical dependencies between the iterations, so the stochastic gradients computed at each iteration can nolonger be seen as unbiased estimates of gradients.
 - [Curiously Fast Convergence of someStochastic Gradient Descent Algorithms](https://leon.bottou.org/publications/pdf/slds-2009.pdf), 2009
-  1) In fact, the stochastic approximation results rely on randomness assump-tion on the successive choice of examples are independent. Both thecycleand theshufflebreak these assumptions but provide a more even coverageof the training set.
-  2) What can we prove for thecycleand theshufflecases?
+  1) In fact, the stochastic approximation results rely on randomness assump-tion on the successive choice of examples are independent. Both the cycle and the shuffle break these assumptions but provide a more even coverage of the training set.
+  2) What can we prove for thecycleand the shuffle cases?
 
 
 ## 2nd-order Optimization & Hessian
