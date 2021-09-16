@@ -102,6 +102,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Matrix Power Normalized Covariance Pooling For Deep Convolutional Networks](http://peihuali.org/iSQRT-COV/index.html)
 - [Estimation of the covariance structure of heavy-taileddistributions](https://arxiv.org/pdf/1708.00502.pdf), 2017 NeurIPS
 - [Law of Log Determinant of Sample Covariance Matrix andOptimal Estimation of Differential Entropy forHigh-Dimensional Gaussian Distributions](http://www.stat.yale.edu/~hz68/Covariance-Determinant.pdf) 
+- [Shape Matters: Understanding the Implicit Bias of theNoise Covariance](https://arxiv.org/pdf/2006.08680.pdf), 2021 COLT
 
 
 ## Image Generation
