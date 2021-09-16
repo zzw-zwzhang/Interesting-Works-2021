@@ -40,6 +40,9 @@
 - [Without-Replacement Samplingfor Stochastic Gradient Methods](https://papers.nips.cc/paper/2016/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf), 2016 NIPS
 - [Closing the Convergence Gap of SGD without Replacement](https://par.nsf.gov/servlets/purl/10183698), 2020 ICML
 - [Open Problem: Can Single-Shuffle SGD be Better thanReshuffling SGD and GD?](http://www.learningtheory.org/colt2021/virtual/static/images/yun21a.pdf), 2021 COLT
+  1) With-replacement: In many theoretical studies the indices of component functions are assumed to be chosen with replacement, making the choice at each iteration independent of other iterations.
+  2) Without-replacement: all the indices are randomly shuffled and are then visited exactly once per epoch (i.e., one pass through all the components). There are two popular
+variants of shuffling schemes: one that reshuffles the components at every epoch and another that shuffles only once at the beginning and reuses that order every epoch.
 
 
 ## 2nd-order Optimization & Hessian
