@@ -72,7 +72,7 @@
 
 
 ## Causal Inference
-- []()
+- [Causal Inference and Stable Learning](http://pengcui.thumedialab.com/papers/StableLeaning-ICML19.pdf), 2019 ICML
 
 
 ## Physics & ML
