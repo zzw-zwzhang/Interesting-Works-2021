@@ -43,7 +43,7 @@
   1) With-replacement: In many theoretical studies the indices of component functions are assumed to be chosen with replacement, making the choice at each iteration independent of other iterations.
   2) Without-replacement: all the indices are randomly shuffled and are then visited exactly once per epoch (i.e., one pass through all the components). There are two popular
 variants of shuffling schemes: one that reshuffles the components at every epoch and another that shuffles only once at the beginning and reuses that order every epoch.
-  3) without-replacement sampling is considerably trickier than their with-replacement counterparts, because the component chosen at each iteration is dependent on the previous iterates of an epoch.
+  3) The without-replacement sampling is considerably trickier than their with-replacement counterparts, because the component chosen at each iteration is dependent on the previous iterates of an epoch.
 
 
 ## 2nd-order Optimization & Hessian
