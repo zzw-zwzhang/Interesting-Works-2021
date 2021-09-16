@@ -51,6 +51,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Whitening and Second Order Optimization Both Make Information in theDataset Unusable During Training, and Can Reduce or Prevent Generalization](https://arxiv.org/pdf/2008.07545.pdf), 2021 ICML
 - [An Investigation into Neural Net Optimization via HessianEigenvalue Density](https://icml.cc/media/Slides/icml/2019/hallb(11-16-00)-11-16-00-4686-an_investigatio.pdf), 2019 Slide
 - [Relationship between the Hessian and Covariance Matrix for Gaussian Random Variables](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470824566.app1), 2010, Appendix
+- [RMSprop Converges with Proper Hyper-parameter](https://openreview.net/pdf?id=3UDSdyIcBDA), 2021 ICLR
 
 
 ## Information Bottleneck & Theory
