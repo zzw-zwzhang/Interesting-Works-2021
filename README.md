@@ -26,7 +26,7 @@
 - [On the Relation Between the Sharpest Directions of DNN Loss and the SGD Step Length](https://arxiv.org/pdf/1807.05031.pdf), 2019 ICLR
 - [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/pdf/1710.06451.pdf), 2018 ICLR
 - [Importance Sampling for Minibatches](https://www.jmlr.org/papers/volume19/16-241/16-241.pdf), 2018 JMLR
-- [Variance Reduction for Stochastic Gradient Optimization](https://papers.nips.cc/paper/2013/file/9766527f2b5d3e95d4a733fcfb77bd7e-Paper.pdf), 2013 NIPS *
+- [Variance Reduction for Stochastic Gradient Optimization](https://papers.nips.cc/paper/2013/file/9766527f2b5d3e95d4a733fcfb77bd7e-Paper.pdf), 2013 NIPS*
 - [A Study of Gradient Variance in Deep Learning](https://arxiv.org/pdf/2007.04532.pdf), 2020 arXiv [[code](https://github.com/fartashf/gvar_code)]
 - [Lecture 10: Accelerating SGD with Averaging and Variance Reduction](https://www.cs.cornell.edu/courses/cs4787/2021sp/notebooks/Slides10.html), Cornell
 
