@@ -86,6 +86,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 
 ## Physics & ML
 - [Hidenori Tanaka](https://sites.google.com/view/htanaka/home)
+- [Physics-based Deep Learning](https://arxiv.org/pdf/2109.05237.pdf), 2021 BOOK
 
 
 ## Random Matrix Theory
