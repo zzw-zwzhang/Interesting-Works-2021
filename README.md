@@ -56,6 +56,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 
 ## Information Bottleneck & Theory
 - [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf), 2017 arXiv
+- [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-), 2018 ICLR
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
 - [Mutual Information Neural Estimation](https://arxiv.org/pdf/1801.04062.pdf), 2021 ICML
 - [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
