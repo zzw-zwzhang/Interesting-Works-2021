@@ -66,6 +66,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Estimation of Entropy and Mutual Information](https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf), 2003
 - [Mutual Information in Learning Feature Transformations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=C05B2757CD4DE983E56A390332D83860?doi=10.1.1.28.7731&rep=rep1&type=pdf), 2000
 - [Does the entropy of a random variable change under a linear transformation?](https://stats.stackexchange.com/questions/517102/does-the-entropy-of-a-random-variable-change-under-a-linear-transformation)
+- [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf), 2017 arXiv
 
 
 ## Batch Normalization
