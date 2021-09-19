@@ -29,6 +29,7 @@
 - [Variance Reduction for Stochastic Gradient Optimization](https://papers.nips.cc/paper/2013/file/9766527f2b5d3e95d4a733fcfb77bd7e-Paper.pdf), 2013 NIPS*
 - [A Study of Gradient Variance in Deep Learning](https://arxiv.org/pdf/2007.04532.pdf), 2020 arXiv [[code](https://github.com/fartashf/gvar_code)]
 - [Lecture 10: Accelerating SGD with Averaging and Variance Reduction](https://www.cs.cornell.edu/courses/cs4787/2021sp/notebooks/Slides10.html), Cornell
+- [New Insights and Perspectives on the Natural Gradient Method](https://arxiv.org/pdf/1412.1193.pdf), 2020 JMLR
 
 
 ## Sampling
