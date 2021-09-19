@@ -35,6 +35,7 @@
 ## Generalization
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
 - [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
+- [Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization](https://arxiv.org/pdf/2002.10657.pdf), 2020 ICLR
 
 
 ## Sampling
