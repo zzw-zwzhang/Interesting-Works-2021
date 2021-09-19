@@ -36,6 +36,11 @@
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
 - [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
 - [Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization](https://arxiv.org/pdf/2002.10657.pdf), 2020 ICLR
+  1) We propose an approach to answering this question basedon a hypothesis about the dynamics of gradient descent that we callCoherentGradients: Gradients from similar examples are similar and so the overall gradientis stronger in certain directions where these reinforce each other.  Thus changesto the network parameters during training are biased towards those that (locally)simultaneously benefit many examples when such similarity exists.
+  2) Gradients arecoherent, i.e, similar examples (or parts of examples) have similar gradients (or similar components of gradients) and dissimilar examples have dissimilar gradients.
+  3) Since the overall gradient is the sum of the per-example gradients, it is stronger in directions where the per-example gradients are similar and reinforce each other and weaker in other directions where they are different and do not add up.
+  4) Since network parameters are updated proportionally to gradients, they change faster in the direction of stronger gradients.
+  5) Thus the changes to the network during training are biased towards those that simultaneously benefit many examples instead of a few (or one example).
 
 
 ## Sampling
