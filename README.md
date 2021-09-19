@@ -32,6 +32,10 @@
 - [New Insights and Perspectives on the Natural Gradient Method](https://arxiv.org/pdf/1412.1193.pdf), 2020 JMLR
 
 
+## Generalization
+- [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
+
+
 ## Sampling
 - [Random Shuffling Beats SGD Only After Many Epochson Ill-Conditioned Problems](https://arxiv.org/pdf/2106.06880.pdf), 2021 arXiv
   1) Recently, there has been much interest in studying the convergence rates of without-replacementSGD, and proving that it is faster than with-replacement SGD in the worst case.
