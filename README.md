@@ -34,6 +34,7 @@
 
 ## Generalization
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
+- [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/pdf/2010.01412.pdf), 2021 ICLR
 
 
 ## Sampling
