@@ -42,6 +42,7 @@
   4) Since network parameters are updated proportionally to gradients, they change faster in the direction of stronger gradients.
   5) Thus the changes to the network during training are biased towards those that simultaneously benefit many examples instead of a few (or one example).
   6) Strong gradient directions are more stable since the presence or absence of a single example does not impact them as much, as opposed to weak gradient directions which may altogether disappear if a specific example is missing from the training set. With this observation, we can reason inductively about the stability of GD: since the initial values of the parameters do not depend on the training data, the initial function mapping examples to their gradients is stable. Now, if all parameter updates are due to strong gradient directions, then stabilityis preserved. However, if some parameter updates are due to weak gradient directions, then stability is diminished.
+  7) How a simple modification to GD to suppress the weak gradient directions can dramatically reduce overfitting
 
 
 ## Sampling
