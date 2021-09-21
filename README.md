@@ -70,20 +70,25 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [RMSprop Converges with Proper Hyper-parameter](https://openreview.net/pdf?id=3UDSdyIcBDA), 2021 ICLR
 
 
-## Information Bottleneck & Theory
+## Information Bottleneck
 - [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf), 2017 arXiv
 - [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-), 2018 ICLR
 - [Disentangled Information Bottleneck](https://arxiv.org/pdf/2012.07372.pdf), 2021 AAAI
+
+
+
+## Information Theory
 - [Mutual Information Neural Estimation](https://arxiv.org/pdf/1801.04062.pdf), 2021 ICML
 - [Learning Deep Representations by Mutual Information Estimation and Maximization](https://arxiv.org/pdf/1808.06670.pdf), 2019 ICLR
 - [A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses](https://arxiv.org/pdf/2003.08983.pdf), 2020 ECCV
-- [Estimating Total Correlation withMutual Information Bounds](https://arxiv.org/pdf/2011.04794.pdf), 2020 NeurIPS-Workshop
+- [Estimating Total Correlation with Mutual Information Bounds](https://arxiv.org/pdf/2011.04794.pdf), 2020 NeurIPS-Workshop
 - [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/pdf/2006.12013.pdf), 2020 ICML
 - [Mutual Information really invariant to invertible transformations?](https://stats.stackexchange.com/questions/50184/mutual-information-really-invariant-to-invertible-transformations)
 - [A Comparison of Correlation Measures](https://m-clark.github.io/docs/CorrelationComparison.pdf)
 - [Estimation of Entropy and Mutual Information](https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf), 2003
 - [Mutual Information in Learning Feature Transformations](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=C05B2757CD4DE983E56A390332D83860?doi=10.1.1.28.7731&rep=rep1&type=pdf), 2000
 - [Does the entropy of a random variable change under a linear transformation?](https://stats.stackexchange.com/questions/517102/does-the-entropy-of-a-random-variable-change-under-a-linear-transformation)
+
 
 
 ## Batch Normalization
