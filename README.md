@@ -163,3 +163,4 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 
 ## Reinforcement Learning
 - [MIT 6.S191 (2020): Reinforcement Learning](https://www.youtube.com/watch?v=nZfaHIxDD5w)
+- [Reinforcement Learning Algorithms for solvingClassification Problems](https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/rl_classification.pdf), 2011 ADPRL
