@@ -169,3 +169,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 
 ## Transformer
 - [Choose a Transformer: Fourier or Galerkin](https://arxiv.org/pdf/2105.14995.pdf), 2021 NeurIPS [[code](https://github.com/scaomath/galerkin-transformer), [BLOG](https://mp.weixin.qq.com/s?__biz=MzUxNzk0NjExOA==&mid=2247487695&idx=1&sn=be0c364d5d85ca83ee27f4425d0a38c2)]
+
+
+## Imitation Learning
+- [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf), 2020 ICML [[code](https://github.com/YangNaruto/FQ-GAN)]
