@@ -173,6 +173,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 
 ## Imitation Learning
 - [A Pragmatic Look at Deep Imitation Learning](https://github.com/Kaixhin/imitation-learning)
+- [Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf), 2016 NIPS [[code](https://github.com/openai/imitation)]
 - [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf), 2020 ICML [[code](https://github.com/YangNaruto/FQ-GAN)]
 - [Augmenting GAIL with BC for Sample Efficient Imitation Learning](https://arxiv.org/pdf/2001.07798.pdf), 2020 arXiv
 - [Primal Wasserstein Imitation Learning](https://arxiv.org/pdf/2006.04678.pdf), 2021 ICLR
