@@ -132,7 +132,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Shape Matters: Understanding the Implicit Bias of theNoise Covariance](https://arxiv.org/pdf/2006.08680.pdf), 2021 COLT
 
 
-## Image Generation
+## Image Generation & Manipulation
 - [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://infinite-nature.github.io/), 2021 ICCV Oral
 - [Repopulating Street Scenes](https://grail.cs.washington.edu/projects/repop/), 2021 CVPR
 - [No Shadow Left Behind: Removing Objects and their Shadows using Approximate Lighting and Geometry](http://grail.cs.washington.edu/projects/shadowremoval/), 2021 CVPR
@@ -145,6 +145,7 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Concept Grounding with Modular Action-Capsules in Semantic Video Prediction](https://arxiv.org/pdf/2011.11201.pdf), 2021 arXiv
 - [Cut-and-Paste Neural Rendering](https://anandbhattad.github.io/projects/reshading/)
 - [View Generalization for Single Image Textured 3D Models](https://nv-adlr.github.io/view-generalization)
+- [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/pdf/2109.06151.pdf), 2021 ICCV-Oral [[code](https://github.com/eliahuhorwitz/DeepSIM)]
 
 
 ## Virtual Try-On
