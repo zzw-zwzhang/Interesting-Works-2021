@@ -31,6 +31,7 @@
 - [Lecture 10: Accelerating SGD with Averaging and Variance Reduction](https://www.cs.cornell.edu/courses/cs4787/2021sp/notebooks/Slides10.html), Cornell
 - [New Insights and Perspectives on the Natural Gradient Method](https://arxiv.org/pdf/1412.1193.pdf), 2020 JMLR
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), 2021 arXiv [[code](https://github.com/JonasGeiping/fullbatchtraining)]*
+- [Steepest descent with momentum for quadratic functions is a version of the conjugate gradient method](https://sci-hub.mksa.top/10.1016/s0893-6080(03)00170-9), 2004 NN
 
 
 ## Generalization
