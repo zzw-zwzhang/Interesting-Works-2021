@@ -181,3 +181,6 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf), 2020 ICML [[code](https://github.com/YangNaruto/FQ-GAN)]
 - [Augmenting GAIL with BC for Sample Efficient Imitation Learning](https://arxiv.org/pdf/2001.07798.pdf), 2020 arXiv
 - [Primal Wasserstein Imitation Learning](https://arxiv.org/pdf/2006.04678.pdf), 2021 ICLR
+- [Task-Relevant Adversarial Imitation Learning](https://arxiv.org/pdf/1910.01077.pdf), 2020 CoRL
+- [Scalable Bayesian Inverse Reinforcement Learning](https://arxiv.org/pdf/2102.06483.pdf), 2021 ICLR
+- 
