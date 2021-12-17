@@ -183,3 +183,6 @@ variants of shuffling schemes: one that reshuffles the components at every epoch
 - [Primal Wasserstein Imitation Learning](https://arxiv.org/pdf/2006.04678.pdf), 2021 ICLR
 - [Task-Relevant Adversarial Imitation Learning](https://arxiv.org/pdf/1910.01077.pdf), 2020 CoRL
 - [Scalable Bayesian Inverse Reinforcement Learning](https://arxiv.org/pdf/2102.06483.pdf), 2021 ICLR
+
+
+## Diffusion Model
